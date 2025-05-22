@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Comany DataBase", "SQL Comany DataBase\SQL Comany DataBase.ssmssqlproj", "{678C8A41-806D-4A88-9544-B1F6360F8AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678C8A41-806D-4A88-9544-B1F6360F8AC0}.Default|Default.ActiveCfg = Default
+		{2E564FDB-F650-4275-AB60-B7D6D4971B04}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6A3626-6E57-41DC-81B5-2B29367E859C}
+	EndGlobalSection
+EndGlobal
